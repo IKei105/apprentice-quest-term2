@@ -17,6 +17,8 @@ USE TV;
 ```
 source /ファイルのパス/create_tables.sql
 ```
+ER図は以下になります。
+![Test Image 1](ER.png)
 
 ## サンプルデータの挿入
 inport_dataファイルに存在するcsvデータを取り込みます。
